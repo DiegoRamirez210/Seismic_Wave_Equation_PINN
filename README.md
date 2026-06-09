@@ -8,7 +8,7 @@ Solving the 1D seismic wave equation using **Physics-Informed Neural Networks (P
 
 This project trains a neural network to solve the 1D acoustic wave equation:
 
-$$u_{tt} = v^2 \, u_{xx}$$
+$$u_{tt} = v^2 u_{xx}$$
 
 where $v = 2$ is the wave propagation velocity, $x \in [0, 1]$, and $t \in [0, 1]$.
 
