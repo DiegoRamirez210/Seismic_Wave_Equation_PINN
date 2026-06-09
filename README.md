@@ -17,7 +17,7 @@ where $v = 2$ is the wave propagation velocity, $x \in [0, 1]$, and $t \in [0, 1
 | Condition | Expression |
 |---|---|
 | Left boundary | $u(0, t) = \cos(2\pi t)$ |
-| Right boundary | $u(1, t) = \cos\left[2\pi\!\left(t - \tfrac{1}{2}\right)\right]$ |
+| Right boundary | $u(1, t) = \cos\left[2\pi\left(t - \tfrac{1}{2}\right)\right]$ |
 | Initial displacement | $u(x, 0) = \cos(\pi x)$ |
 | Initial velocity | $\partial_t u(x, 0) = 2\pi \sin(\pi x)$ |
 
